@@ -31,7 +31,7 @@ Here’s a snapshot of what I’m currently working with:
 🌱 **Currently Learning**
 
 I’m currently focused on:
-- 🚀 Deepening my understanding of **Data Structures & Algorithms**
+- 🚀 Deepening my understanding of Data Structures & Algorithms
 - ⚡ Improving JavaScript fundamentals
 - 🔐 Exploring Cybersecurity basics
 - 🧠 Practicing competitive programming
