@@ -17,7 +17,9 @@ Here’s a snapshot of what I’m currently working with:
 - ☕ Java  
 - 🌐 HTML  
 - 🎨 CSS  
-- ⚡ JavaScript, Python (learning)
+- ⚡ JavaScript (learning)
+- 🐍 Python (learning)
+- ⚛️ React (learning)
 
 **💡 Areas of Interest:**  
 - 🔐 Cybersecurity  
