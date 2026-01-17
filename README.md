@@ -47,7 +47,7 @@ Still lots to explore — and I love the journey! 😄
 
 🔗 GitHub: https://github.com/ahnaftahmidrafid32  
 
-💼 LinkedIn: https://www.linkedin.com/in/ahnaf-tahmid-rafid-4287b7373  
+💼 LinkedIn: https://www.linkedin.com/in/ahnaf-tahmid-rafid  
 
 ✉️ Gmail:
 rafidtahmid32@gmail.com
