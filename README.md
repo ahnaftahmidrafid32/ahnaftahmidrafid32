@@ -13,7 +13,8 @@ I love to learn, build, and collaborate — whether it’s through projects, com
 Here’s a snapshot of what I’m currently working with:
 
 **🧠 Programming Languages:**  
-- 🟢 C  
+- 🟢 C
+- ⚙️ C++ (learning)  
 - ☕ Java  
 - 🌐 HTML  
 - 🎨 CSS  
