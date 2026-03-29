@@ -1,8 +1,8 @@
-👋 Hey, I'm Ahnaf Tahmid Rafid!
+Hey hey,Ahnaf Tahmid Rafid here!
 
 I’m a passionate undergraduate student from North South University(NSU), studying in the ECE Department with a CSE major.  
 
-My journey began as a self-taught coder, and today I’m exploring different tech fields with curiosity, consistency, and creativity 🚀
+My journey began as a self-taught coder, and today I’m exploring different tech fields with curiosity, consistency, and creativity 
 
 I love to learn, build, and collaborate — whether it’s through projects, competitive programming, or hackathons!
 
@@ -54,5 +54,3 @@ Still lots to explore — and I love the journey! 😄
 rafidtahmid32@gmail.com
 
 ---
-
-✨ "learn, build, and grow" 💪🚀
