@@ -53,4 +53,10 @@ Still lots to explore — and I love the journey! 😄
 ✉️ Gmail:
 rafidtahmid32@gmail.com
 
+🔗 Instagram:
+https://www.instagram.com/pandaman_for_u
+
+🔗 Twitter: 
+https://x.com/rafid_tahmid69
+
 ---
